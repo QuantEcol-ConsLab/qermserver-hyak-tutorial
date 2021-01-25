@@ -18,6 +18,16 @@ Relatively soon (August 2021) GitHub is going to force everyone to transition fr
   * NIMBLE: https://r-nimble.org/nimbleExamples/parallelizing_NIMBLE.html
   
   * JAGS: see your preferred jags package manual
+  
+## Cloud computing resources
+
+HANNAH fill in
+  
+## QERM/SEFS/SAFS computing resources
+
+  * [QERM wiki simulation servers page](http://wiki.cbr.washington.edu/qerm/index.php/QERM_simulation_servers)
+  
+  * [UDrive instructions](https://itconnect.uw.edu/wares/online-storage/u-drive-central-file-storage-for-users/)
 
 ## Hyak resources
 
@@ -71,9 +81,3 @@ We find the Hyak wiki really difficult to navigate. In our opinion the most usef
   * [R Programming on Hyak](https://wiki.cac.washington.edu/display/hyakusers/Hyak+R+programming)
   
 If you don't find what you need there and you have hunted around for a bit, the Research Computing Club officers hold office hours in the eScience Institute. Find out [when](https://escience.washington.edu/office-hours/). 
-
-## QERM/SEFS/SAFS computing resources
-
-  * [QERM wiki simulation servers page](http://wiki.cbr.washington.edu/qerm/index.php/QERM_simulation_servers)
-  
-  * [UDrive instructions](https://itconnect.uw.edu/wares/online-storage/u-drive-central-file-storage-for-users/)
