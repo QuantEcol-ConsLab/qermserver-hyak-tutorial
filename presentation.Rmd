@@ -15,13 +15,19 @@ header-includes:
 - \usetikzlibrary{shapes,arrows}
 ---
 <!-- General Outline: -->
-<!-- Colin (30m) - Intro to how a computer works and some parallelization exercises -->
-<!-- Maria (30m) - Walk through an example on the SEFS servers -->
-<!-- Abby (30m) - Walk through an example on Hyak -->
+<!-- Both (30m) - Intro to how a computer works and  parallelization -->
+<!-- Hannah (30m) - Cloud computing -->
+<!-- Abby (30m) - Hyak -->
 
 # Remote Servers: Why Bother?
 <!-- I (Abby) think it would be good to say something about code profiling also -->
 <!-- And thinking through when your code is memory intensive vs. cpu intensive, how a computer works, etc -->
+
+## A note about GitHub
+
+Switch to SSH authentication before August 2021
+
+Chapter 11 of Happy Git with R
 
 ## The Basics: How Do Computers Work?
 
