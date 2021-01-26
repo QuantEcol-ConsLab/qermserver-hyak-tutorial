@@ -35,7 +35,11 @@ Note that you must email SEFS IT to access the following.
     - Snoqualmie
 - 24 cores
 - 256 GB RAM 
+<<<<<<< HEAD
 - 1 TB of disk space for **temporary** storage 
+=======
+- 1 TB of disk space for temporary storage 
+>>>>>>> c1fecb0e58ac4d0b35da7d9eaea506474f9a2426
 -  SAFS has the second floor computer lab which is now online
     - AEB is not sure about the specs currently
     - Endorse Michael's STF proposal so that they have better ones!
