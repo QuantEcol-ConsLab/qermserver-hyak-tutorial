@@ -27,6 +27,33 @@ HANNAH fill in
   
 ## QERM/SEFS/SAFS computing resources
 
+Note that you must email SEFS IT to access the following. 
+
+- 3 servers
+    - Pilchuk
+    - Skykomish
+    - Snoqualmie
+- 24 cores
+- 256 GB RAM 
+- 1 TB of disk space for **temporary** storage 
+-  SAFS has the second floor computer lab which is now online
+    - AEB is not sure about the specs currently
+    - Endorse Michael's STF proposal so that they have better ones!
+
+### General logon instructions
+
+- Microsoft Remote Desktop Connection
+- Enter computer/connection name e.g Pilchuck
+- PC name e.g. pilchuck.sefs.uw.edu
+- Enter your netid and password
+
+- Off campus
+    - download Husky OnNet from [UWare](https://itconnect.uw.edu/connect/uw-networks/about-husky-onnet/use-husky-onnet/terms-conditions/)
+    - Open BIG-IP Edge Client
+    - Connect
+
+### Resources
+
   * [QERM wiki simulation servers page](http://wiki.cbr.washington.edu/qerm/index.php/QERM_simulation_servers)
   
   * [UDrive instructions](https://itconnect.uw.edu/wares/online-storage/u-drive-central-file-storage-for-users/)
@@ -54,15 +81,6 @@ Details of how to do each of these are at the link above. If you are feeling adv
 Make sure you pay attention to any emails from the HPC list. They contain helpful Hyak updates as well as notifications about club meetings. **Everyone is required to attend at least one club meeting a year to stay on the STF partition**. 
 
 **Bonus homework for Windows users:** Check that you have SSH enabled as that's how we'll log in to Hyak. This should be default if you are running a recentish version of Windows 10+. If you're old school, you might check out [puTTY](https://www.putty.org/). 
-
-#### For the QERM/SEFS Servers portion:
-Please take a look at the [QERM wiki simulation servers page](http://wiki.cbr.washington.edu/qerm/index.php/QERM_simulation_servers). Here are the basic steps you should have completed before class on Feb 5:
-
-  1. Contact SEFSIT to gain access to the servers. In you email, include which specific server(s) you would like access to (e.g. Snoqualmie). This should be done well in advance to give them a chance to respond.
-  
-  2. Mac and Linux users need to install some software. Mac users need Microsoft Remote Desktop. Linux users need to find your favorite Remote Desktop client -- Remmina seems to be the good option for Ubuntu which comes preinstalled. I'll trust Linux users to figure out whatever fiddling needs to be done ahead of time. Linux users will also need to make sure they have a SFTP program as outlined in the [UDrive instructions](https://itconnect.uw.edu/wares/online-storage/u-drive-central-file-storage-for-users/). Mac and Windows users have built-in programs to do this.
-  
-Note that the QERM/SEFS servers  are down approximately 1day/month for maintenance. 
 
 ###  Resources
 
