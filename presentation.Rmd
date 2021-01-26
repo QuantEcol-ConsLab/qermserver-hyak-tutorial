@@ -90,7 +90,11 @@ Chapter 11 of Happy Git with R
 - When should you definitely not parallelize?
 - When should you use a remote server?
 
-## What options are available to me?
+## What are our needs?
+- What have folks used? How was your experience?
+- Do you have computing needs that are not being met?
+
+## What options are available to us?
 
 - pay-per-use
   - Amazon, Google cloud, Azure, etc

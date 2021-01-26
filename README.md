@@ -19,6 +19,8 @@ Relatively soon (August 2021) GitHub is going to force everyone to transition fr
   
   * JAGS: see your preferred jags package manual
   
+# Remote servers
+  
 ## Cloud computing resources
 
 HANNAH fill in
